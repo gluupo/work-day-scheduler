@@ -1,9 +1,9 @@
 var hour = moment().hour();
 var range = Array(9).fill().map((_, i) => i + 9);
 var template = `<section class="row time-block">
-  <div class="col col-md-1 hourr"></div>
+  <div class="col col-md-1 hour"></div>
   <textarea class="col col-md-10 description"></textarea>
-  <button class="col col-md-1 btn saveBtn"><i clasls="fas fa-save"></i></button>
+  <button class="col col-md-1 btn saveBtn"><i class="fas fa-save"></i></button>
 </section>`;
 
 $('#currentDay').text(moment().format('LLLL'));
