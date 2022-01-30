@@ -1,10 +1,10 @@
 # WORK DAY SCHEDULER
 ## table of contents
-- [#objective](objective)
-- [#usage](usage)
-- [#visuals](visuals)
-- [#deployed site](deployed-site)
-- 
+- [objective](#objective)
+- [usage](usage)
+- [visuals](visuals)
+- [deployed site](deployed-site)
+
 ## objective
 as a coder with a busy schedule, i want to add important events to a daily planner so that i can manage my time more effectively.
 
